@@ -128,7 +128,7 @@ Implement aspect-based sentiment analysis (e.g., quality, delivery, packaging).
 🧑‍💻 Author
 
 Ashutosh Bhardwaj
-🔗 GitHub Profile
+🔗 GitHub Profile-[https://github.com/197Ashutosh]
 
 📜 License
 

@@ -134,8 +134,3 @@ Ashutosh Bhardwaj
 
 This project is open-source. You are free to use, modify, and distribute with attribution.
 
-
----
-
-Do you also want me to **generate the `requirements.txt`** so that anyone cloning your repo can run the project instantly?
----
